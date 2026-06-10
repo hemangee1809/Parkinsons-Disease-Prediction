@@ -1,4 +1,4 @@
-# Parkinson's Disease PredictionAn 
+# Parkinson's Disease Predictionan 
 
 end-to-end machine learning pipeline built to predict the health status of subjects using biomedical voice measurements. This project evaluates and benchmarks multiple classification algorithms to accurately detect Parkinson's disease based on vocal frequencies, amplitude variations, and nonlinear dynamical complexity measures.  
 
